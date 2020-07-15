@@ -1,4 +1,10 @@
 ### Hi there 👋
+### - 🔭 I’m currently working on: Nothing :D
+### - 🌱 I’m currently learning: C++
+### - 🤔 I’m looking for help with: Interatinc with CS:GO
+### - 🔭 I’m currently working on: Nothing :D
+### - Feel Free to look around my GitHub
+
 
 <!--
 **SiLeNSwOrD/SiLeNSwOrD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
