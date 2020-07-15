@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### - 🔭 I’m currently working on: Nothing :D
 ### - 🌱 I’m currently learning: C++
-### - 🤔 I’m looking for help with: Interatinc with CS:GO
+### - 🤔 I’m looking for help with: interacting with csgo
 ### - 🔭 I’m currently working on: Nothing :D
 ### - Feel Free to look around my GitHub
 
