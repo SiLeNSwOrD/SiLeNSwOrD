@@ -1,8 +1,10 @@
 ### Hi there 👋
 ### - 🔭 I’m currently working on: Nothing :D
-### - 🌱 I’m currently learning: C++
+### - 🌱 I’m currently learning: Nothing :D
 ### - 🤔 I’m looking for help with: interacting with csgo
 ### - 🔭 I’m currently working on: Nothing :D
+### - 📫 How to reach me: Discord: Androidy#0001
+### - ⚡ Fun fact: @iphqne Got me into C# 
 ### - Feel Free to look around my GitHub
 
 
