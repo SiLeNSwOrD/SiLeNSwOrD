@@ -1,4 +1,4 @@
-### Hi there 👋
+## 🌌 Hi there 👋
 ### - 🔭 I’m currently working on: Nothing :D
 ### - 🌱 I’m currently learning: Nothing :D
 ### - 🤔 I’m looking for help with: interacting with csgo
