@@ -13,6 +13,10 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SiLeNSwOrD&layout=compact&theme=radical" />
 </a>
 
+ 
+## Discord RPC
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/225642196806664194)](https://discord.com/users/225642196806664194)
+
 
 <!--
 **SiLeNSwOrD/SiLeNSwOrD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
